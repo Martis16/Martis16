@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Martynas and this is my github account. I am a student at Kaunas University of technologies currently seeking for a bachelor's degree in Informatics Engineering.
 
+SKILS: C# | PHP | Java | C | IT security
 
-[![Martis16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martis16)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Martis16/Martis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
