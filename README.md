@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Martynas and this is my github account. I am a student at Kaunas University of technologies currently seeking for a bachelor's degree in Informatics Engineering.
 
-Skills:     C#  |  PHP  |  Java  |  C  |  IT security
+Skills:     Sofware Development | IT security  |  C#  |  PHP  |  Java  |  C  
 
 Linkedin:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martynas-burneika-454bab292/)  
