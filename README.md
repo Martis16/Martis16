@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Martynas and this is my github account. I am a student at Kaunas University of technologies currently seeking for a bachelor's degree in Informatics Engineering.
 <!--
 **Martis16/Martis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
