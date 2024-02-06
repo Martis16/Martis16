@@ -4,7 +4,7 @@ My name is Martynas and this is my github account. I am a student at Kaunas Univ
 Skills:     C#  |  PHP  |  Java  |  C  |  IT security
 
 Linkedin:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martynas-burneika-454bab292/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' color='blue' alt='linkedin' height='40'>](https://www.linkedin.com/in/martynas-burneika-454bab292/)  
 CodeWars:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/martis16)  
 
