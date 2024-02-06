@@ -3,7 +3,7 @@ My name is Martynas and this is my github account. I am a student at Kaunas Univ
 
 Skills:     C#  |  PHP  |  Java  |  C  |  IT security
 
-[linkedin](https://www.linkedin.com/in/Martynas Burneika/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Martynas Burneika/)  
 <!--
 **Martis16/Martis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
