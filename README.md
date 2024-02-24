@@ -5,9 +5,9 @@ Skills:     Sofware Development | IT security  |  C#  |  PHP  |  Java  |  C
 
 Linkedin:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martynas-burneika-454bab292/)  
-<!--CodeWars:
+CodeWars:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/martis16)  
---!>
+
 
 <!--
 **Martis16/Martis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
