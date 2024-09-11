@@ -4,7 +4,7 @@ My name is Martynas and this is my github account. I am a student at Kaunas Univ
 Skills:     Sofware Development  |  C#  |  PHP  |  Java  | IT security 
 
 LinkedIn:
-<img src='https://github.com/user-attachments/assets/7fae991e-5df4-4d70-989f-39c2d91445a8' alt='LinkedIn' height='40'>
+[<img src='https://github.com/user-attachments/assets/7fae991e-5df4-4d70-989f-39c2d91445a8' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/martynas-burneika-454bab292/)
 
 
 Leetcode:
