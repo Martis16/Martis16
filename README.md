@@ -8,10 +8,10 @@ LinkedIn:
 
 
 Leetcode:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/martis16/)  
+[<img src='https://github.com/user-attachments/assets/15fda380-42b7-48b8-83b1-bca44b352c12' alt='leetcode' height='40'>](https://leetcode.com/u/martis16/)  
 
 Portfolio:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://martynasburneika.netlify.app/)
+[<img src='https://github.com/user-attachments/assets/33dbd4c5-44bb-449f-91e9-8b9d6f9e34da' alt='website' height='40'>](https://martynasburneika.netlify.app/)
  
 
 
